@@ -1,6 +1,7 @@
 # 🚀 Go-High-Concurrency-Sim
 **Breaking the limits of M-series Silicon.**
 
+**Extreme Engine v4**：17M+ payloads/sec（Ring Buffer多核版）☠️
 **Extreme Engine v3**：11.1M+ payloads/sec（多核隔离稳定版）☠️
 
 A 17-year-old developer from Mexico pushing a single MacBook Air M-chip to its absolute physical limits with Go.
